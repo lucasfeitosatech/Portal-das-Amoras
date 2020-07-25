@@ -1,0 +1,24 @@
+{
+  "name": "com.jardimdasamoras.portal",
+  "version": "1.0.0",
+  "description": "Portal para o condominio jardim das amoras",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfeitosatech/Portal-das-Amoras.git"
+  },
+  "author": "Lucas Feitosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfeitosatech/Portal-das-Amoras/issues"
+  },
+  "homepage": "https://github.com/lucasfeitosatech/Portal-das-Amoras#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
